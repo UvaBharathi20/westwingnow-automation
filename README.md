@@ -15,6 +15,9 @@ $ npm i --save-dev @wdio/cli
 ## Dependencies
 Intercept [https://webdriver.io/docs/wdio-intercept-service.html]
 
+## Notes
+User name and password for login is hardcoded, but the username and password should be saved in cloud and accessed via encypted key.
+
 Run the individual test using below commands,
 
 npx wdio wdio.conf.js --spec test/specs/login.test.js 
