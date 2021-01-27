@@ -12,6 +12,8 @@ Now, install the CLI:
 
 $ npm i --save-dev @wdio/cli
 
+## Dependencies
+Intercept [https://webdriver.io/docs/wdio-intercept-service.html]
 
 Run the individual test using below commands,
 
